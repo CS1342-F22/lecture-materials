@@ -1,4 +1,4 @@
-# Program 4 - Blackjack
+# Program 4 - Blackjack :hearts: :clubs: :diamonds: :spades:
 In this program, you will be designing a program using Object Oriented Programming techniques to implement the game of Blackjack! Your program is due **November 7th @ 6:00 am**
 
 ## Blackjack 

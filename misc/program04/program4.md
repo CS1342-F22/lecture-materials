@@ -1,5 +1,5 @@
 # Program 4 - Blackjack :hearts: :clubs: :diamonds: :spades:
-In this program, you will be designing a program using Object Oriented Programming techniques to implement the game of Blackjack! Your program is due **November 7th @ 6:00 am**
+In this program, you will be creating a program using Object Oriented Programming techniques for the game of Blackjack! Your program is due **November 7th @ 6:00 am** submitted to GitHub
 
 ## Blackjack 
 The objective of Blackjack is to get as close to 21 without going over. The player and the dealer are each dealt two cards. The playerʼs cards are dealt face up, and only one of the dealerʼs cards are shown.

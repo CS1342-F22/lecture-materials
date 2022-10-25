@@ -1,5 +1,7 @@
 #include <iostream>
+#include <iomanip>
 #include "User.h"
+#include "Bank.h"
 
 using namespace std;
 
@@ -9,21 +11,9 @@ void display() {
 }
 
 int main() {
-    User user; // default constructor
-    User user1(1, "Erik Gabrielsen", "123 Caruth");
+    Bank bank;
 
-//    int id = 10;
-//    user.setId(id);
-//    user.setName("Erik Gabrielsen");
-
-    user1.display();
-
-//    user.id = 10; // -1
-//    user.name = "Erik Gabrielsen";
-//    user.address = "1234 Caruth Lane";
-//    user.balance = 1000000;
-//
-//    cout << user.id << endl;
+    cout << bank.getName() << endl;
 
 
     return 0;

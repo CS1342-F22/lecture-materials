@@ -41,3 +41,7 @@ User::User(int id, string name, string address) {
 
     this->balance = 0;
 }
+
+void User::setBalance(double b) {
+    this->balance = b;
+}

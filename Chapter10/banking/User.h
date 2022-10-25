@@ -18,12 +18,16 @@ public:
     User(); // default constructor - no args
     User(int id, string name, string address); // overloaded constructor
 
+    User()
+
     // getters & setters
     int getId() const;
     void setId(int id);
 
     string getName() const;
     void setName(string name);
+
+    void setBalance(double b);
 
     // utilities
     void display();

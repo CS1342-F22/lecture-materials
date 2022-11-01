@@ -10,7 +10,7 @@ int main()
     int *ptr = &value;
 
     *ptr = 20;
-    ptr = &value2;
+    ptr = &value2; // int * = int *
 
     // const pointer to a non-const value
     int *const ptr2 = &value;

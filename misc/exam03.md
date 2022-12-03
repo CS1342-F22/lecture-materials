@@ -1,5 +1,5 @@
-# Exam 2 Review
-Exam 2 will cover Chapters 11 - 13 of ZyBook. This document will outline the material you should know for the Exam: 
+# Exam 3 Review
+Exam 3 will cover Chapters 11 - 13 of ZyBook. This document will outline the material you should know for the Exam: 
 - You may bring one 2-sided handwritten 3x5 notecard
 
 ## Chapter 11 - Dynamic Memory and Classes
